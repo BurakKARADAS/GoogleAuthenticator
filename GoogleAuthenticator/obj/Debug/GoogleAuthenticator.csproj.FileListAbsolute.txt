@@ -1,0 +1,9 @@
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\bin\Debug\GoogleAuthenticator.exe.config
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\bin\Debug\GoogleAuthenticator.exe
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\bin\Debug\GoogleAuthenticator.pdb
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.csprojResolveAssemblyReference.cache
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.Form1.resources
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.Properties.Resources.resources
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.csproj.GenerateResource.Cache
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.exe
+c:\users\atilim2\documents\visual studio 2013\Projects\GoogleAuthenticator\GoogleAuthenticator\obj\Debug\GoogleAuthenticator.pdb
